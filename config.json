@@ -1,0 +1,12 @@
+{
+  "token": process.env.BOT_TOKEN,
+  "ytapikey": "AIzaSyAdORXg7UZUo7sePv97JyoDqtQVi3Ll0b8",
+  "ownerid": "523836549390139392",
+  "defaultSettings": {
+    "prefix": ".",
+    "ratelimit": false,
+    "djonly": false,
+    "djrole": "dj",
+    "maxqueuelength": 20
+  }
+}
